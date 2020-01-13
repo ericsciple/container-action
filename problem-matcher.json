@@ -5,7 +5,7 @@
             "pattern": [
                 {
                     "regexp": "^PROBLEM: (.+) FILE: (.+) LINE: (.+) COLUMN: (.+)$",
-                    "message": 1
+                    "message": 1,
                     "file": 2,
                     "line": 3,
                     "column": 4
